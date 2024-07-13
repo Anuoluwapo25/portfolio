@@ -1,0 +1,12 @@
+/*any screen from 576 above*/
+@media (min-width: 576px) {
+    #about p {
+        justify-content: center;
+        color: blueviolet;
+    }
+
+}
+
+@media (min-width: 992px) {
+    
+}
