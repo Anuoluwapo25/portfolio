@@ -421,7 +421,9 @@ nav ul li a:hover {
 }
 @media (min-width: 992px) {
     .home {
-        padding: 0px 0px;    }
+        padding: 0px 0px; 
+        background-color: white !important;
+       }
     .content {
         font-size: 25px;
         max-width: 2100px;
@@ -439,9 +441,9 @@ nav ul li a:hover {
     }
     .home {
         margin: 0;
-        justify-content: left;
-        align-items: left;
-        padding: 0px 15px; 
+        #justify-content: left;
+        #align-items: left;
+        #padding: 0px 15px; 
         max-width: 960px;
     }
     .home-image img {
